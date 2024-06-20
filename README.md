@@ -1,0 +1,2 @@
+# Code Editor Web App 
+This web app, built with React, Vite, and Tailwind CSS, provides a user-friendly code editing environment for HTML, CSS, and JavaScript. It features syntax highlighting, code autocompletion, error checking, and live preview. Users can switch between dark and light modes, save projects, and enjoy a responsive design. Ideal for web developers, it offers speed, flexibility, and ease of use. Future enhancements may include collaboration and version control integration.
